@@ -1,0 +1,40 @@
+{
+  "id": "3783e5cc-5eb1-4762-a1c7-3ada8a4afec9",
+  "name": "Candidatos: Info General",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "09de3e5b-f582-44f4-98d6-713e15bfe317",
+          "required": true,
+          "dataType": "@CandidatoPresidencia",
+          "name": "CandidatoPresidencia",
+          "value": "$CandidatoPresidencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Permiteme un segundo en lo que consigo la información que necesitas :)",
+            "Dame un segundo."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524334537,
+  "fallbackIntent": false,
+  "events": []
+}

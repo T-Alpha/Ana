@@ -1,0 +1,70 @@
+[
+  {
+    "id": "efb6aca5-ef42-420f-83bd-a425e670142d",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334249
+  },
+  {
+    "id": "cc2bf733-5d49-466f-b32d-557ccc2e4f98",
+    "data": [
+      {
+        "text": "Quien es ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334249
+  },
+  {
+    "id": "db61da89-49f9-4a14-802f-530fa057e4dc",
+    "data": [
+      {
+        "text": "Platicame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524334249
+  },
+  {
+    "id": "a0f5634e-48e3-4ac3-9307-c3d09e711efe",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334249
+  }
+]

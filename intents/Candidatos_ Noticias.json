@@ -1,0 +1,38 @@
+{
+  "id": "c7b9eea7-34b5-448f-99a0-ae0caa207643",
+  "name": "Candidatos: Noticias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8a8c78d9-b1b1-4b7c-8415-52afafa6a84c",
+          "required": false,
+          "dataType": "@CandidatoPresidencia",
+          "name": "CandidatoPresidencia",
+          "value": "$CandidatoPresidencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Dame un segundo en lo que busco la noticia más reciente del candidato."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524334553,
+  "fallbackIntent": false,
+  "events": []
+}

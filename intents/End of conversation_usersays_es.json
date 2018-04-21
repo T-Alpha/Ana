@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2a0c0e0e-8b50-4288-a9dd-eac52d45eddf",
+    "data": [
+      {
+        "text": "Nos vemos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334695
+  },
+  {
+    "id": "1040c805-a858-412c-9689-b13798bdaea0",
+    "data": [
+      {
+        "text": "Gracias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334695
+  },
+  {
+    "id": "402d91b0-e386-4576-bf8f-27b7898101d1",
+    "data": [
+      {
+        "text": "Hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524330166
+  },
+  {
+    "id": "b04b538c-cd86-45f9-840c-b52f8d8c9308",
+    "data": [
+      {
+        "text": "Adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524330166
+  }
+]

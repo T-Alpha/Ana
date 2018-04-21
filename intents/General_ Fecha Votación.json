@@ -1,0 +1,28 @@
+{
+  "id": "1f36ce1c-6501-4499-ae84-267b9351854f",
+  "name": "General: Fecha Votación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Las votaciones son el día 1 de Julio 2018 (Domingo). ¿Ya listo? ¡Espero que si!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524335092,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "58260067-a858-4502-b0fd-4a1083fb6b57",
+  "name": "General: Donde me toca votar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Para encontrar donde votar, entra a esta página. Te será de mucha ayuda. Link: http://www.infoeleccionesmexico.com/donde-votar-mexico.php"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524334864,
+  "fallbackIntent": false,
+  "events": []
+}

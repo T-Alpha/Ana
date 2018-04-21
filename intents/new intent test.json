@@ -1,0 +1,28 @@
+{
+  "id": "2a6eb70d-7f52-4540-8782-0de8da15293e",
+  "name": "new intent test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524298650,
+  "fallbackIntent": false,
+  "events": []
+}

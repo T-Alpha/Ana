@@ -1,0 +1,56 @@
+[
+  {
+    "id": "37b12d68-d96f-4124-9de7-0e5be14ca9da",
+    "data": [
+      {
+        "text": "Dame Noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334511
+  },
+  {
+    "id": "4c1d79be-ca83-4a37-96a9-35bad4df4bea",
+    "data": [
+      {
+        "text": "dime algo de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334511
+  },
+  {
+    "id": "dc86390d-e0e9-429a-b50c-213007669443",
+    "data": [
+      {
+        "text": "Que ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "CandidatoPresidencia",
+        "meta": "@CandidatoPresidencia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334511
+  }
+]

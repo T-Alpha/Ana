@@ -1,0 +1,28 @@
+{
+  "id": "3e3ded0a-fe15-4a00-9d05-b353ed1e3680",
+  "name": "General: Conciencia Votaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "u serious bro?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524335210,
+  "fallbackIntent": false,
+  "events": []
+}
