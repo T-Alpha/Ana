@@ -1,0 +1,70 @@
+[
+  {
+    "id": "9a4adbfa-96d0-4125-8a3d-e298a6d850ba",
+    "data": [
+      {
+        "text": "Háblame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "b7a2ec03-7b30-4df0-8292-286f1437ae53",
+    "data": [
+      {
+        "text": "Platícame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "2306dd63-5786-4562-9375-b92be5b35bf4",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  },
+  {
+    "id": "ecedbe9f-dbf7-47c4-8633-3c07b8d1662f",
+    "data": [
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547303
+  }
+]

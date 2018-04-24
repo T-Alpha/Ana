@@ -1,0 +1,52 @@
+{
+  "id": "1a6ad333-e2af-413e-b066-304e62bc3541",
+  "name": "News: AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dd95a622-4c37-4ba8-85cd-ba1918eb47ab",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        },
+        {
+          "id": "c7a87ecb-730a-4045-a4e9-36f318f6ca37",
+          "required": false,
+          "dataType": "@AMLO",
+          "name": "AMLO1",
+          "value": "$AMLO1",
+          "isList": false
+        },
+        {
+          "id": "2edee890-e583-4090-8c5c-da0e0d8bbe96",
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Las encuestas no afectaron a AMLO. Subió de 48 a 50 puntos después del primer debate presidencial"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524593181,
+  "fallbackIntent": false,
+  "events": []
+}

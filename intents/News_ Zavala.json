@@ -1,0 +1,37 @@
+{
+  "id": "bcb9fbee-7b1d-4c58-89e8-6dd432d9c211",
+  "name": "News: Zavala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0e769e11-2a77-4825-9208-c137f960d864",
+          "required": false,
+          "dataType": "@Zavala",
+          "name": "Zavala",
+          "value": "$Zavala",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Margarita Zavala mencionó que va a \"hacer lo que tenga que hacer para que no haya impunidad”. En realidad, en ningún país del mundo se ha terminado con la impunidad. Ni siquiera están cerca. Lo que promete Zavala es imposible."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524593654,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1ec954b6-140d-46ab-9a41-61b2c1ea1c73",
+  "name": "Fake News",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7fec179-fef5-4d61-bdd8-8fa2056d0d84",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "eb76b3cc-dd61-493e-b9c1-ea49d7e00b51",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "isList": false
+        },
+        {
+          "id": "86583edb-ef79-4969-9ce6-9ca77cb0faae",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city2",
+          "value": "$geo-city2",
+          "isList": false
+        },
+        {
+          "id": "581bf175-ff11-4cd3-b8b0-1e4c1a57cafe",
+          "dataType": "@Asistencia",
+          "name": "Asistencia",
+          "value": "$Asistencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Segun verificado 2018, Nuevo León cuenta con la asistencia de entrega de pasajes para transporte, pago de servicios funerarios, medicina y hospedaje. \n\nhttps://verificado.mx/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524590051,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "644048b2-95e2-48e6-8262-b923e711067b",
+  "name": "Info_General: AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7b44e284-fb02-4146-a601-983b53cc649f",
+          "required": true,
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Perdona, no mencionaste de que candidato estamos hablando."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Andrés Manuel López Obrador, ex Jefe de Gobierno de la Ciudad de México, es candidato a la presidencia por parte de Morena."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524547551,
+  "fallbackIntent": false,
+  "events": []
+}

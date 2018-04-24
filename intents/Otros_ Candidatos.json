@@ -1,0 +1,28 @@
+{
+  "id": "bcccd2d1-8d85-4cae-8151-464610dcd82a",
+  "name": "Otros: Candidatos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Son 5 candidatos, estos son:\nAndrés Manuel López Obrador, de Morena, PT y PES.\n\nJosé Antonio Meade, del PRI, PVEM y PANAL\n\nRicardo Anaya Cortés, del PAN, PRD y Movimiento Ciudadano.\n\nMargarita Zavala como independiente.\n\nY Jaime Rodríguez “El Bronco” como independiente."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524589920,
+  "fallbackIntent": false,
+  "events": []
+}

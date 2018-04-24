@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1fe13161-2e08-4a90-97ef-289bcb13abce",
+    "data": [
+      {
+        "text": "Platicame del ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548812
+  },
+  {
+    "id": "ed20f986-2458-4c3b-957a-6b67946bc789",
+    "data": [
+      {
+        "text": "Hablame del ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548812
+  },
+  {
+    "id": "9b5a90fb-a03a-4b19-b0d3-c88574bab0a3",
+    "data": [
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548812
+  },
+  {
+    "id": "4142b5c8-72a0-44c9-81bc-b4618c19d4da",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "el Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548812
+  }
+]

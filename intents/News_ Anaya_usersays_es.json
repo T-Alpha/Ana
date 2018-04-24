@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2446dd87-f438-4e9e-b7cb-d7f8041cb43c",
+    "data": [
+      {
+        "text": "Dame las ultima noticia del ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "5575c90d-d39b-4688-bd3a-9ce679899bc1",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " noticias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "f5071510-93e2-481a-9c42-1d3012496418",
+    "data": [
+      {
+        "text": "Noticias ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "605b8dfa-526c-42f9-bae6-b33b5d081449",
+    "data": [
+      {
+        "text": "Ultimas noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "4ef1a4e5-0adb-418f-88de-79b8f5e7a43f",
+    "data": [
+      {
+        "text": "Dame noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "c6f79f85-894c-4482-8db3-456af000ef7f",
+    "data": [
+      {
+        "text": "Qué dice ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589130
+  },
+  {
+    "id": "a7af3426-ea38-4c84-b060-0fea3720e0a9",
+    "data": [
+      {
+        "text": "Qué ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524589130
+  }
+]

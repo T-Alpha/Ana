@@ -1,0 +1,37 @@
+{
+  "id": "1f36ce1c-6501-4499-ae84-267b9351854f",
+  "name": "Otros: Fecha Votación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "es",
+          "textToSpeech": "Las votaciones son el día Domingo primero de Julio 2018. ¿Estas listo? ¡Espero que si!"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Las votaciones son el día Domingo primero de Julio 2018. ¿Estas listo? ¡Espero que si!",
+            "¡Cada vez falta menos! Las votaciones son el Domingo primero de Julio 2018."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524584034,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "7225f6bf-0356-4b94-99ce-9a762e160643",
+    "data": [
+      {
+        "text": "Quienes quieren ser presidente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589920
+  },
+  {
+    "id": "0513eaa0-c5dc-4249-97d8-23aa1e74ff47",
+    "data": [
+      {
+        "text": "Que candidatos ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589920
+  },
+  {
+    "id": "dc0fb66c-b144-4757-ae2b-b1064817dda1",
+    "data": [
+      {
+        "text": "Candidatos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524589920
+  }
+]

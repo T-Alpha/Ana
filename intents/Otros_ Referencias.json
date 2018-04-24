@@ -1,0 +1,28 @@
+{
+  "id": "30ed44c1-764b-478d-b94a-80642951e35f",
+  "name": "Otros: Referencias",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Toda la información actual que te he platicado viene de \"Verificado.com\", esta página checa las noticias y avala la veracidad de estas."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524591851,
+  "fallbackIntent": false,
+  "events": []
+}

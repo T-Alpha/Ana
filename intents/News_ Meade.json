@@ -1,0 +1,46 @@
+{
+  "id": "92ce681c-b44e-4e96-99c0-e3972eb6f40d",
+  "name": "News: Meade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74c60b88-36dc-434e-8b33-aa39f24786b1",
+          "required": false,
+          "dataType": "@Noticias",
+          "name": "Noticias",
+          "value": "$Noticias",
+          "isList": false
+        },
+        {
+          "id": "44284cd9-8094-40ef-aebf-a87d765265f7",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Meade obtiene tercer lugar en las encuestas a presidencia de México. Obteniendo un puntaje de 16%"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524595221,
+  "fallbackIntent": false,
+  "events": []
+}

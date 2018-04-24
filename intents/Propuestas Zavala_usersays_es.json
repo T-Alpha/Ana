@@ -1,0 +1,60 @@
+[
+  {
+    "id": "44293c33-893d-44f7-8dbc-a7885fc32008",
+    "data": [
+      {
+        "text": "Hablame de las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592391
+  },
+  {
+    "id": "9b57458a-e705-4ba7-ad14-445b128f8a71",
+    "data": [
+      {
+        "text": "Muestrame las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Margarita",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592391
+  },
+  {
+    "id": "f170cbdc-d4c9-4404-b562-d3baaea7f465",
+    "data": [
+      {
+        "text": "Cuales son las propuestas de Magarita ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592391
+  }
+]

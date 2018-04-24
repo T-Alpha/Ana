@@ -1,0 +1,37 @@
+{
+  "id": "33ff8930-6866-45a2-92cc-68f8a97084c3",
+  "name": "Info_General: Meade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "65efa996-77fe-4fae-98dd-ed2a6f61e459",
+          "required": true,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "José Antonio Meade, ex secretario de Hacienda y Crédito Público, es el candidato a la presidencia de México de parte del PRI."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524547327,
+  "fallbackIntent": false,
+  "events": []
+}

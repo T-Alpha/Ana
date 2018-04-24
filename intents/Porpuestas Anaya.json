@@ -1,0 +1,45 @@
+{
+  "id": "59520a8f-216d-4928-a3de-4a37b53c9bdb",
+  "name": "Porpuestas Anaya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e002dac-9951-4c70-927b-001a8b59a4ce",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        },
+        {
+          "id": "e293a115-9df5-4e27-95d6-ed50b9e73f1c",
+          "required": false,
+          "dataType": "@Anaya",
+          "name": "Anaya1",
+          "value": "$Anaya1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes encontrar las propuestas de Ricardo Anaya en la siguiente liga\nhttps://ricardoanaya.com.mx/plataforma-del-frente"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524591646,
+  "fallbackIntent": false,
+  "events": []
+}

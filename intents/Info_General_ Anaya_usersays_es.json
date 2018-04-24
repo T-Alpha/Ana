@@ -1,0 +1,70 @@
+[
+  {
+    "id": "f273b0f3-0e56-480d-a6cf-0b42584d13cc",
+    "data": [
+      {
+        "text": "Platicame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "a0cba236-205f-4305-8ed1-c231fd4a7516",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "b7fbf66c-2db3-4ca2-9afc-ee397673618c",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  },
+  {
+    "id": "544dff8a-62c1-4a0c-a09f-c01c38d63a4d",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524547097
+  }
+]

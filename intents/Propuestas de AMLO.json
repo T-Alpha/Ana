@@ -1,0 +1,36 @@
+{
+  "id": "f11853ac-185f-4b2d-87a4-91e5dc88c55a",
+  "name": "Propuestas de AMLO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc4f8c55-20ba-48a6-aba0-2fd75a3a6d3b",
+          "dataType": "@AMLO",
+          "name": "AMLO",
+          "value": "$AMLO",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes consultar las propuestas de Andres Manuel en https://lopezobrador.org.mx/temas/propuestas-amlo/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524592248,
+  "fallbackIntent": false,
+  "events": []
+}

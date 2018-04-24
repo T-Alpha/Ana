@@ -1,0 +1,36 @@
+{
+  "id": "3de814b3-07e7-4e3a-8d65-4d6c85d7040f",
+  "name": "News: Anaya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "596bf574-816a-4b83-bbe7-d3fb8754c398",
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Durante el primer debate, el candidato del PAN, Ricardo Anaya, aseguró que Andrés Manuel “propuso una amnistía” comparándolo con el caso fallido de Colombia. \"Plantear el perdón a los criminales es una locura que generaría enorme violencia en el país\", mencionó Ricardo."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524589130,
+  "fallbackIntent": false,
+  "events": []
+}

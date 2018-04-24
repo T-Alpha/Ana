@@ -1,0 +1,28 @@
+{
+  "id": "3e3ded0a-fe15-4a00-9d05-b353ed1e3680",
+  "name": "Otros: Conciencia Votaciones",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Estas en tu derecho de votar o no, pero es importante participar en las elecciones debido a la importancia que tenemos como ciudadanos de elegir a aquellos que nos representaran como nación."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524584108,
+  "fallbackIntent": false,
+  "events": []
+}

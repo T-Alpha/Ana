@@ -1,0 +1,106 @@
+[
+  {
+    "id": "846b290f-9bfb-4097-bea6-e8df7ddfbe80",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "novedades",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "López",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Obrador",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524593181
+  },
+  {
+    "id": "7eb13698-1f45-4d2c-881b-6e922fc73eea",
+    "data": [
+      {
+        "text": "Cuales son las ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Manuel",
+        "alias": "AMLO1",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524593181
+  },
+  {
+    "id": "26b6d7a7-e7bb-4eb4-a2c6-2e6ba34a4cb4",
+    "data": [
+      {
+        "text": "Ultimas ",
+        "userDefined": false
+      },
+      {
+        "text": "noticias",
+        "alias": "Noticias",
+        "meta": "@Noticias",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524593181
+  }
+]

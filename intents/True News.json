@@ -1,0 +1,59 @@
+{
+  "id": "083277dd-6bc2-4b8f-9323-4271625982ef",
+  "name": "True News",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2daa14ef-5d33-4de1-bef6-a1c855fc473a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "f5feb182-42aa-426d-8a1d-54a572ad34d5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        },
+        {
+          "id": "cf25a988-5853-4cb9-ab46-ec5810c76803",
+          "dataType": "@Entidades",
+          "name": "Entidades",
+          "value": "$Entidades",
+          "isList": false
+        },
+        {
+          "id": "3c80c6c6-f0aa-470f-8ea3-417b4c877b6a",
+          "dataType": "@Violencia",
+          "name": "Violencia",
+          "value": "$Violencia",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Esta noticia es verdadera. Fue avalada por https://verificado.mx/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524590708,
+  "fallbackIntent": false,
+  "events": []
+}

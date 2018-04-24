@@ -1,0 +1,88 @@
+[
+  {
+    "id": "5fcdf99b-79b7-4ee1-a2e0-afe5310c5d96",
+    "data": [
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " Propuestas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591621
+  },
+  {
+    "id": "15ed5385-6687-4ee4-977f-6cc81eb9e8f7",
+    "data": [
+      {
+        "text": "Propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591621
+  },
+  {
+    "id": "2f7668fb-ce44-4931-af6f-14fa84692564",
+    "data": [
+      {
+        "text": "Muestrame las noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591621
+  },
+  {
+    "id": "0eca0b78-ecdf-4e09-a9d7-6d844ab53e03",
+    "data": [
+      {
+        "text": "Cuales son las Propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Ricardo",
+        "alias": "Anaya",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Anaya",
+        "alias": "Anaya1",
+        "meta": "@Anaya",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591621
+  }
+]

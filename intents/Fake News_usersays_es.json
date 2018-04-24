@@ -1,0 +1,158 @@
+[
+  {
+    "id": "a6b217ae-b910-4ec9-8791-cfb818457f76",
+    "data": [
+      {
+        "text": "Veracidad de ",
+        "userDefined": false
+      },
+      {
+        "text": "Programa de Asistencia",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590051
+  },
+  {
+    "id": "cc1aaba5-caa2-48a0-8ef2-a7348b2e5a99",
+    "data": [
+      {
+        "text": "Programa de Asistencia",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en Nuevo León",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590051
+  },
+  {
+    "id": "5540743e-03e2-4593-90fc-1bb941ec064a",
+    "data": [
+      {
+        "text": "Es verdad que no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "programa de ayuda",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "alias": "geo-city2",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590051
+  },
+  {
+    "id": "c2315eb2-e8fd-4b6a-a064-e09107126e88",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Nuevo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "León",
+        "alias": "geo-city1",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " no ",
+        "userDefined": false
+      },
+      {
+        "text": "hay",
+        "alias": "geo-city2",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "programa asistencialista",
+        "alias": "Asistencia",
+        "meta": "@Asistencia",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590051
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "d51b3c31-e60f-4600-8f93-c036075be4f4",
+    "data": [
+      {
+        "text": "Que ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "el bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": " ultimamente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591172
+  },
+  {
+    "id": "507056fb-456e-4120-a2ba-38b93bcfa05c",
+    "data": [
+      {
+        "text": "Noticias del ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591172
+  },
+  {
+    "id": "913fb209-efe7-459b-a261-13e63d5d865d",
+    "data": [
+      {
+        "text": "Noticias ",
+        "userDefined": false
+      },
+      {
+        "text": "Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591172
+  },
+  {
+    "id": "1a2a6e53-b2d5-40bc-ab73-4460a50a2752",
+    "data": [
+      {
+        "text": "Qué ha hecho ",
+        "userDefined": false
+      },
+      {
+        "text": "el Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591172
+  }
+]

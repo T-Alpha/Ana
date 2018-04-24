@@ -1,0 +1,38 @@
+{
+  "id": "5935b7d5-c69c-4505-b8e3-2b61a27dcf2f",
+  "name": "Más información",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CandidatosInfoGeneral.CandidatosInfoGeneral-more",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bc7c4828-61db-4d82-84ee-da7069feaa01",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Con tu correo podemos enviarte más información"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524510974,
+  "fallbackIntent": false,
+  "events": []
+}

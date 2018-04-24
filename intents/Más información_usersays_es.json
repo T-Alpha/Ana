@@ -1,0 +1,148 @@
+[
+  {
+    "id": "771ac46e-a766-4ce5-8381-ec2a2fab560b",
+    "data": [
+      {
+        "text": "Subscribeme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "4b34927a-f426-4492-ab3c-edd9b6b46290",
+    "data": [
+      {
+        "text": "Quiero seguimiento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "59c1aa7c-8e07-4c2f-a5e5-70b25fc1ead5",
+    "data": [
+      {
+        "text": "Mandalo a mi correo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "4e082d81-0f12-4fc7-83f0-1734a24c6696",
+    "data": [
+      {
+        "text": "más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "266d1f9f-7307-421f-ac59-b6eb6a11e763",
+    "data": [
+      {
+        "text": "más resultados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "c2b90c70-0b12-46c8-a221-a46954163708",
+    "data": [
+      {
+        "text": "algo más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "1754beab-d9a6-4e2b-b992-17bdf9810f6e",
+    "data": [
+      {
+        "text": "otros resultados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "9c41c931-79f1-432a-90ca-bc9f5577c814",
+    "data": [
+      {
+        "text": "más información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "9cd2b977-6756-4833-8083-ead71ad4c8e2",
+    "data": [
+      {
+        "text": "saber más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "270b6aaf-eaa4-4eed-91a5-6081a80dfd3d",
+    "data": [
+      {
+        "text": "hay algo más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "2df73a9c-74f0-43b3-9f6f-5f04b3ba1a98",
+    "data": [
+      {
+        "text": "qué más",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  },
+  {
+    "id": "8bac0292-d7a2-4cba-ab10-a51a45eb8de0",
+    "data": [
+      {
+        "text": "mostrar más",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524510974
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "45908163-4d88-4a1b-a805-906970122d58",
+  "name": "News: Bronco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "484166e0-0ccc-45fd-8773-5b2f1551e2d3",
+          "dataType": "@Bronco",
+          "name": "Bronco",
+          "value": "$Bronco",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "El candidato independiente Jaime Rodríguez, El Bronco, propuso “mocharle la mano” a los funcionarios públicos que roben, como una sanción viable. Sin embargo, este castigo está prohibido por la Constitución y es incompatible con tratados internacionales de los que México forma parte."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524591172,
+  "fallbackIntent": false,
+  "events": []
+}

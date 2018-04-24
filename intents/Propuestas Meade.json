@@ -1,0 +1,37 @@
+{
+  "id": "367761cc-7a36-4f87-af27-482870c8a4fa",
+  "name": "Propuestas Meade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c55bb423-984e-4cf6-bd19-b8ffa90f3574",
+          "required": false,
+          "dataType": "@Meade",
+          "name": "Meade",
+          "value": "$Meade",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes revisar las propuestas de Meade en la siguiente liga\nhttps://meade18.com/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524591901,
+  "fallbackIntent": false,
+  "events": []
+}

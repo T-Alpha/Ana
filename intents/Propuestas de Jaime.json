@@ -1,0 +1,37 @@
+{
+  "id": "996b5315-3af8-49d0-8f24-12560ed46d7d",
+  "name": "Propuestas de Jaime",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d76ccd89-3c84-422e-8435-5acdd2af3438",
+          "required": false,
+          "dataType": "@Bronco",
+          "name": "Bronco",
+          "value": "$Bronco",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes consultar las propuestas de Jaime Rodríguez en http://www.jaimerodriguez.mx/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524592547,
+  "fallbackIntent": false,
+  "events": []
+}

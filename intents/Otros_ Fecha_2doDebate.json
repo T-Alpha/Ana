@@ -1,0 +1,31 @@
+{
+  "id": "0cfa65d4-59b9-4b20-a3c2-d5f065b37656",
+  "name": "Otros: Fecha_2doDebate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "El segundo debate presidencial será el 20 de Mayo",
+            "¡Falta muy poco, el debate es el 20 de Mayo!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524583925,
+  "fallbackIntent": false,
+  "events": []
+}

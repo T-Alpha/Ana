@@ -1,0 +1,37 @@
+{
+  "id": "13366f3b-4c02-4581-b685-87f3f58ad46e",
+  "name": "Info_General: Zavala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4fa017dc-6f1f-4676-9f41-8f08d62d1bdd",
+          "required": true,
+          "dataType": "@Zavala",
+          "name": "Zavala",
+          "value": "$Zavala",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Margarita Ester Zavala Gómez del Campo, abogada y política mexicana, es candidata independiente a la presidencia."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524548530,
+  "fallbackIntent": false,
+  "events": []
+}

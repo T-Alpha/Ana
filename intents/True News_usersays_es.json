@@ -1,0 +1,160 @@
+[
+  {
+    "id": "19bbea04-0608-4c84-aa47-cafde0da5881",
+    "data": [
+      {
+        "text": "Aumento de ",
+        "userDefined": false
+      },
+      {
+        "text": "violencia",
+        "alias": "Violencia",
+        "meta": "@Violencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "entidades federativas",
+        "alias": "Entidades",
+        "meta": "@Entidades",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590708
+  },
+  {
+    "id": "3bfbf711-e40c-48f3-91ca-7971327283ab",
+    "data": [
+      {
+        "text": "Aumento de ",
+        "userDefined": false
+      },
+      {
+        "text": "violencia",
+        "alias": "Violencia",
+        "meta": "@Violencia",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de las ",
+        "userDefined": false
+      },
+      {
+        "text": "32",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "entidades Federativas",
+        "alias": "Entidades",
+        "meta": "@Entidades",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590708
+  },
+  {
+    "id": "ebd3255f-35ad-4192-b4e0-09ad2ce96db0",
+    "data": [
+      {
+        "text": "Aumentó la ",
+        "userDefined": false
+      },
+      {
+        "text": "violencia",
+        "alias": "Violencia",
+        "meta": "@Violencia",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590708
+  },
+  {
+    "id": "f1cc14f0-5636-4746-a4b2-6300b5f7605b",
+    "data": [
+      {
+        "text": "Es cierto que en ",
+        "userDefined": false
+      },
+      {
+        "text": "29",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " de las ",
+        "userDefined": false
+      },
+      {
+        "text": "32",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "entidades federativas",
+        "alias": "Entidades",
+        "meta": "@Entidades",
+        "userDefined": true
+      },
+      {
+        "text": " aumentó la ",
+        "userDefined": false
+      },
+      {
+        "text": "violencia",
+        "alias": "Violencia",
+        "meta": "@Violencia",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590708
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "578fb4a1-654c-449c-b8c0-0ec00a8628d6",
+  "name": "Propuestas Zavala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f78ed230-7849-476c-88a4-1dad7b9dae0c",
+          "required": false,
+          "dataType": "@Zavala",
+          "name": "Zavala",
+          "value": "$Zavala",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Puedes consultar las propuestas de Margarita Zavala en https://www.margaritazavala.com/el-mexico-que-queremos/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524592445,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c2423f30-a543-4a06-b344-2ec983fbb6dd",
+    "data": [
+      {
+        "text": "Dónde están las elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42afc9d9-6eba-412a-8c0f-967634aa05c5",
+    "data": [
+      {
+        "text": "Donde me toca votar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524334864
+  }
+]

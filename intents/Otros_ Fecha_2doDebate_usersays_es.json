@@ -1,0 +1,78 @@
+[
+  {
+    "id": "5b6f8c17-28cf-4a79-a3fa-0b6d18ae1163",
+    "data": [
+      {
+        "text": "Hay",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un segundo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546386
+  },
+  {
+    "id": "c50ac983-b17a-4125-9aae-d50b25d429da",
+    "data": [
+      {
+        "text": "Segundo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546386
+  },
+  {
+    "id": "433d7bcf-e353-4143-a965-4347a39b50bc",
+    "data": [
+      {
+        "text": "Debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546386
+  },
+  {
+    "id": "1982c838-435a-48f7-abf7-f84c954077a3",
+    "data": [
+      {
+        "text": "Cuando es ",
+        "userDefined": false
+      },
+      {
+        "text": "el segundo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " debate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546386
+  }
+]

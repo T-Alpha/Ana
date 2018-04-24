@@ -1,0 +1,74 @@
+[
+  {
+    "id": "99194889-61d1-4508-b79d-6390d48195b8",
+    "data": [
+      {
+        "text": "¿Qué sucede si no voto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509908
+  },
+  {
+    "id": "bec29c9d-7e8e-40d5-8c63-d4a7f1889577",
+    "data": [
+      {
+        "text": "¿Por qué es importante votar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509908
+  },
+  {
+    "id": "3f9492f4-1e89-4c72-80d3-3bb5214fb031",
+    "data": [
+      {
+        "text": "Que sucede si no voy a votar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509870
+  },
+  {
+    "id": "0bdb4b4a-a4ec-4355-800e-74b7d2ba4e82",
+    "data": [
+      {
+        "text": "Qué pasa si no voy a votar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509870
+  },
+  {
+    "id": "ef72461f-ff39-40e5-9556-1dfa98a46e1d",
+    "data": [
+      {
+        "text": "Para que es el voto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509870
+  },
+  {
+    "id": "59082638-7d64-4b32-825b-0f8a3e53aaed",
+    "data": [
+      {
+        "text": "Que pasa si no voto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524509870
+  }
+]

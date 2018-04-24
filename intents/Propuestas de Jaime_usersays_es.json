@@ -1,0 +1,60 @@
+[
+  {
+    "id": "2375e19d-a422-4e4e-be02-153a361ad383",
+    "data": [
+      {
+        "text": "Hablame de las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "el Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592526
+  },
+  {
+    "id": "c8f543db-8327-4c11-897a-a8199711d7f8",
+    "data": [
+      {
+        "text": "Muestrame las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaime Rodriguez",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592526
+  },
+  {
+    "id": "68990690-a198-46d3-bb73-7dd2f33e0cc3",
+    "data": [
+      {
+        "text": "Cuales son las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "el Bronco",
+        "alias": "Bronco",
+        "meta": "@Bronco",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592526
+  }
+]

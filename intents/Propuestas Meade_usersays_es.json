@@ -1,0 +1,74 @@
+[
+  {
+    "id": "da46306c-2855-4162-a1df-04566cedf71a",
+    "data": [
+      {
+        "text": "Propuestas de Toño ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591842
+  },
+  {
+    "id": "dbccacca-ff3a-46ac-9152-d977f3cc3460",
+    "data": [
+      {
+        "text": "Hablame de las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591842
+  },
+  {
+    "id": "94fbca1d-4be2-4775-a8c0-dadc2d0026cf",
+    "data": [
+      {
+        "text": "Cuales son las Propuestas de Antonio ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591842
+  },
+  {
+    "id": "02e57f13-7bfb-4d7b-9503-bdc6416760f8",
+    "data": [
+      {
+        "text": "Propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Meade",
+        "alias": "Meade",
+        "meta": "@Meade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591842
+  }
+]

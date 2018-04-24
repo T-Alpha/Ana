@@ -1,0 +1,93 @@
+[
+  {
+    "id": "feac52c5-8667-459f-a8d7-d3f23dd4ecf0",
+    "data": [
+      {
+        "text": "Platicame de ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546128
+  },
+  {
+    "id": "e0336514-a627-4885-8524-4c3f2a85e096",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546128
+  },
+  {
+    "id": "f81b20bc-7854-4618-a7ec-fa07a1618713",
+    "data": [
+      {
+        "text": "Historia",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546128
+  },
+  {
+    "id": "7dedf948-6caf-4c2e-a685-0989913c5fb8",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "amlo",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546128
+  },
+  {
+    "id": "c5f9af06-d20e-4398-8ee6-3961620c1abb",
+    "data": [
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524546128
+  }
+]

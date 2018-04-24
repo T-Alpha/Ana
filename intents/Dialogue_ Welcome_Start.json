@@ -1,0 +1,44 @@
+{
+  "id": "7799f66f-f554-4c62-a51c-46c9044d7eb9",
+  "name": "Dialogue: Welcome/Start",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "es",
+          "textToSpeech": "¡Hola! Mi nombre es Ana y yo te ayudaré a analizar el entorno político en México. ¿Quieres saber algo de algún candidato?"
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "¡Hola! Mi nombre es Ana y yo te guiaré e informaré sobre las elecciones en México."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524584166,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

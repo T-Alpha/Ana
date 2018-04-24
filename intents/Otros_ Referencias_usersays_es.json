@@ -1,0 +1,38 @@
+[
+  {
+    "id": "5f2be90e-8ea6-4a3a-8b23-315464377178",
+    "data": [
+      {
+        "text": "Dónde dice eso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590253
+  },
+  {
+    "id": "e6226b32-c42b-479d-8003-2f74902bb7bf",
+    "data": [
+      {
+        "text": "Es enserio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590253
+  },
+  {
+    "id": "414ffb03-4b8a-495e-84e1-b34d6b0ce87e",
+    "data": [
+      {
+        "text": "De donde sacas tu información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524590253
+  }
+]

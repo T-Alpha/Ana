@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3864e0de-c20e-414b-8a5f-fc47518e3ada",
+    "data": [
+      {
+        "text": "Hablame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548530
+  },
+  {
+    "id": "a040495b-1be0-4d3b-8939-75c48c38d960",
+    "data": [
+      {
+        "text": "Platícame de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548530
+  },
+  {
+    "id": "42b9e8e0-99b8-4aa8-9a6d-fa147528de6d",
+    "data": [
+      {
+        "text": "Quién es ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548530
+  },
+  {
+    "id": "47e792e3-53c5-402b-b4b8-1783684022cc",
+    "data": [
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524548530
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3ad65f64-6e2a-445a-9a26-f304b9e61d2c",
+    "data": [
+      {
+        "text": "Hablame de las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "López Obrador",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592248
+  },
+  {
+    "id": "4096b783-c112-4394-9b26-9e48056677f2",
+    "data": [
+      {
+        "text": "Muestrame las Porpuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592248
+  },
+  {
+    "id": "17ff8a07-4c79-407f-ac78-559d6fa5185b",
+    "data": [
+      {
+        "text": "Cuales son las propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "AMLO",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592248
+  },
+  {
+    "id": "87b61136-ea25-4158-b86c-cf0d7417535f",
+    "data": [
+      {
+        "text": "Propuestas de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andres",
+        "alias": "AMLO",
+        "meta": "@AMLO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524592248
+  }
+]

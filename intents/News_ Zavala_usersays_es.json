@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5be27711-6223-407d-b911-e0f955ea4b0c",
+    "data": [
+      {
+        "text": "Ultima noticia de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591816
+  },
+  {
+    "id": "8f4cf3a7-2f6a-4182-92ed-b6f91f30b080",
+    "data": [
+      {
+        "text": "Qué ha pasado con ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591816
+  },
+  {
+    "id": "5cafa135-b140-4c9b-a7ef-13aebc32469e",
+    "data": [
+      {
+        "text": "Noticia ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591816
+  },
+  {
+    "id": "00076971-58c3-4a4a-9603-aafc1f397603",
+    "data": [
+      {
+        "text": "Noticias de ",
+        "userDefined": false
+      },
+      {
+        "text": "Zavala",
+        "alias": "Zavala",
+        "meta": "@Zavala",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524591816
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "cb2c8338-30b3-405c-adcb-96e71ec95475",
+  "name": "Dialogue: End of conversation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Fue un gusto platicar contigo!",
+            "Nos vemos. ¡Y no olvides votar!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524583980,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "de9c3472-f998-4cb5-9ab0-645b50d5a1c0",
+  "name": "Info_General: Anaya",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7d109f5d-3118-4879-a9d0-eac4eb06a199",
+          "required": true,
+          "dataType": "@Anaya",
+          "name": "Anaya",
+          "value": "$Anaya",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Ricardo Anaya, político y militante del PAN, es el candidato a la presidencia del mismo partido."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524548114,
+  "fallbackIntent": false,
+  "events": []
+}
